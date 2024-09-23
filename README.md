@@ -1,7 +1,3 @@
-Here’s a detailed `README.md` file for your Money Manager app:
-
----
-
 # Money Manager Application
 
 The **Money Manager Application** is a command-line interface (CLI) tool designed to help users manage their personal finances. It allows users to create accounts, add transactions, set budgets for different spending categories, and keep track of their financial balance. Users can also generate reports, export their transaction history or current balance to CSV files, and delete their accounts if needed.

@@ -36,11 +36,17 @@ Before running the application, ensure you have the following installed:
 - **SQLite** (built-in with SQLAlchemy)
 - **SQLAlchemy** (Python ORM for database handling)
 
-### Install Required Dependencies
-Use the following commands to install dependencies:
-```bash
-pip install sqlalchemy alembic
-```
+## Setup and Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Mikemunene16/money_manager-1.git
+    ```
+
+2. Install the dependencies:
+    ```bash
+    pip install sqlalchemy alembic
+    ```
 
 ### Database Setup
 The database is managed using SQLite. To initialize the database, run the following command:

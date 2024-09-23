@@ -103,8 +103,8 @@ The user can generate a summary report of all their transactions. This feature t
 ```
 Enter your User ID: 1
 Transaction Report for User ID 1:
-- Groceries: $150 on 2024-09-22
-- Salary: $5000 on 2024-09-20
+- Groceries: 150 on 2024-09-22
+- Salary: 5000 on 2024-09-20
 ```
 
 ### 4. Set Budget

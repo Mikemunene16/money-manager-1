@@ -151,7 +151,7 @@ This feature allows users to delete their account, which will also delete all th
 #### Example:
 ```
 Enter your User ID to delete: 1
-User John Doe deleted successfully.
+User John Snow deleted successfully.
 ```
 
 ### 9. Exit

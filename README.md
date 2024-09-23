@@ -27,10 +27,6 @@ The **Money Manager Application** is a command-line interface (CLI) tool designe
   - [7. Check Balance](#7-check-balance)
   - [8. Delete User Account](#8-delete-user-account)
   - [9. Exit](#9-exit)
-- [Database Structure](#database-structure)
-- [Error Handling](#error-handling)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 

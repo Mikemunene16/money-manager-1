@@ -17,7 +17,7 @@ The **Money Manager Application** is a command-line interface (CLI) tool designe
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features in Detail](#features-in-detail)
+- [Features](#features-in-detail)
   - [1. Create User Account](#1-create-user-account)
   - [2. Add Transaction](#2-add-transaction)
   - [3. Generate Report](#3-generate-report)
